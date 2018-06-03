@@ -30,4 +30,3 @@ function dec(a) {
   return (--a)
 }
 dec(a)
-
