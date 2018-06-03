@@ -7,6 +7,6 @@ function add(a,b) {
 add(a,b)
 
 function subtract(a,b) {
-  return (a + b)
+  return (a - b)
 }
 subtract(a,b)
