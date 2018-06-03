@@ -20,3 +20,8 @@ function divide(a,b) {
   return (a / b)
 }
 divide(a,b)
+
+function inc(a) {
+  return (++a)
+}
+add(a)
