@@ -24,4 +24,10 @@ divide(a,b)
 function inc(a) {
   return (++a)
 }
-add(a)
+inc(a)
+
+function dec(a) {
+  return (--a)
+}
+dec(a)
+
