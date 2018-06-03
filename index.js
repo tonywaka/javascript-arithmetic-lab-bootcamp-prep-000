@@ -22,11 +22,11 @@ function divide(a,b) {
 divide(a,b)
 
 function inc(a) {
-  return (++a)
+  return (a +=1)
 }
 inc(a)
 
 function dec(a) {
-  return (--a)
+  return (a -=1)
 }
 dec(a)
