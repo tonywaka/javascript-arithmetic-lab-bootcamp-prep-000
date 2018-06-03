@@ -11,7 +11,7 @@ function subtract(a,b) {
 }
 subtract(a,b)
 
-function add(a,b) {
+function multiply(a,b) {
   return (a * b)
 }
-add(a,b)
+multiply(a,b)
